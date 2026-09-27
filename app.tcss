@@ -1,0 +1,46 @@
+#main-area {
+    width: 100%;
+    height: 1fr;
+    border: hidden;
+}
+
+#rss {
+    width: 80%;
+    height: 100%;
+    border: solid gray;
+}
+
+#rss #viewer {
+    width: 3fr;
+    height: 100%;
+    padding: 1 2;
+    border: solid gray;
+}
+
+#rss #articles {
+    width: 2fr;
+    height: 100%;
+    border: hidden;
+}
+
+#right-column {
+    width: 20%;
+    height: 100%;
+    border: hidden;
+}
+
+#weather {
+    height: 1fr;
+    border: solid gray;
+}
+
+#todo {
+    height: 4fr;
+    border: solid gray;
+}
+
+#cmd {
+    width: 100%;
+    height: 10%;
+    border: solid gray;
+}

@@ -1,0 +1,30 @@
+# Lander
+# weather api (wttr.in) ##DONE
+
+# all built on textual #YEAH
+
+# news api (?) #IN PROGRESS
+
+# app launcher #ACTUALLY KINDA POSSIBLE BUT I NEED TO REMAKE IT FOR WINDOWS LOL
+
+# todo list # yeah this ones basically done, just needs testing and integration
+
+# battery / volume # uhruehruehugheuhugehgughrughuhguhguughgffufufuhurelrel
+
+# command prompt # Partially done, needs the base to receive input and then send it to individual widgets
+
+# base layer # speaking of which
+
+
+
+
+DO LATERS:
+# text editor # I KINDA WANNA DO THIS ONE
+
+# file manager # I THINK THIS ONE IS VERY VERY HARD AND WOULD GO WELL WITH THE TEXT EDITOR
+
+# calendar # not before monday
+
+# games (advent, maybe like pokemon or something, fishing game) # #COMPLICATED
+
+# music player (vlc) #OK IM NOT DOING THIS ONE JUST USE MERCURY
